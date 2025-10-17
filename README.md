@@ -20,14 +20,46 @@
 ---
 
 ### 🪶 About Me  
-```yaml
-Name: Mahdi Maleki  
-Age: 21  
-Role: Flutter Developer  
-Experience: 1.5 Years  
-Focus: Mobile App Design, Firebase, Creative UI  
-Goal: Building the next generation of startup experiences.
-```
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
+</p>
+
+<p align="center">
+  <b><i>✨ A creative mind crafting modern mobile experiences ✨</i></b>
+</p>
+
+<table align="center">
+  <tr>
+    <td><b>👤 Name</b></td>
+    <td>Mahdi Maleki</td>
+  </tr>
+  <tr>
+    <td><b>🎂 Age</b></td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>Flutter Developer</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Experience</b></td>
+    <td>1.5 Years</td>
+  </tr>
+  <tr>
+    <td><b>🎯 Focus</b></td>
+    <td>Mobile App Design · Firebase · Creative UI</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Goal</b></td>
+    <td>Building next-gen startup experiences with style and innovation.</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&section=header&width=400" />
+</p>
+
 
 ---
 
