@@ -96,16 +96,16 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="mailto:mahdi@example.com">
+  <a href="mailto:mahdimalekiwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://t.me/mahdi_maleki">
+  <a href="https://t.me/babydeveloper">
     <img src="https://img.shields.io/badge/Telegram-FFD700?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/mahdi-maleki">
+  <a href="https://www.linkedin.com/in/mahdi-maleki-work">
     <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://github.com/mahdi-maleki">
+  <a href="https://github.com/maleki-online">
     <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
