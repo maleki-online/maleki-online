@@ -72,18 +72,18 @@
 
 ### ⚙️ GitHub Insights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdi-maleki&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=C0C0C0&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maleki-online&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=C0C0C0&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahdi-maleki&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maleki-online&theme=transparent&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
 </p>
 
 ---
 
 ### 📊 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi-maleki&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maleki-online&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
